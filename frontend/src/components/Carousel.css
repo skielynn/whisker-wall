@@ -1,0 +1,19 @@
+ .carousel-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    height: 600px;
+    overflow: hidden;
+    position: relative;
+    padding-top: 0;
+
+}
+
+.carousel-image {
+    width: 100%;
+    height: 200%;
+    object-fit: cover;
+    display: block;
+    object-position: center 40%;
+}
